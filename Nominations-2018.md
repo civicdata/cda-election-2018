@@ -11,7 +11,7 @@ Repository to track nominated Civic Data Alliance Core Members
 |@eric_bickel|X  |   |   |   |   |
 |@502eire|   |   |   |   |   |
 |@jessetylermullins|   |   |   |   |   |
-|@leigh|   |X  |   |   |   |
+|@leigh|   |   |   |   |   |
 |@margeaux|X  |   |   |   |   |
 |@mikelcu|   |   |   |   |   |
 |@pat|X  |   |   |   |   |
