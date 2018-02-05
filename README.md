@@ -6,16 +6,16 @@ Repository to track nominated Civic Data Alliance Core Members
 |---|---|---|---|---|---|
 |@Cody Mcpheron|   |   |   |   |   |
 |@Aaron Marks|   |   |   |   |   |
-|@Bethany|   |   |   |   |   |
+|@Bethany|   |   |   |X  |   |
 |@chrisharrell|   |   |   |   |   |
 |@eric_bickel|   |   |   |   |   |
 |@502eire|   |   |   |   |   |
 |@jessetylermullins|   |   |   |   |   |
 |@leigh|   |   |   |   |   |
-|@margeaux|   |   |   |   |   |
+|@margeaux|X  |   |   |   |   |
 |@mikelcu|   |   |   |   |   |
-|@pat|   |   |   |   |   |
+|@pat|X  |   |   |   |   |
 |@rkahne|   |   |   |   |   |
 |@shelleyhicklin|   |   |   |   |   |
-|@thebouv|   |   |   |   |   |
+|@thebouv|   |X  |   |   |   |
 |@zbouvier|   |   |   |   |   |
