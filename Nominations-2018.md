@@ -8,14 +8,14 @@ Repository to track nominated Civic Data Alliance Core Members
 |@Aaron Marks|   |   |   |   |   |
 |@Bethany|   |   |   |X  |   |
 |@chrisharrell|   |   |   |   |   |
-|@eric_bickel|   |   |   |   |   |
+|@eric_bickel|X  |   |   |   |   |
 |@502eire|   |   |   |   |   |
 |@jessetylermullins|   |   |   |   |   |
-|@leigh|   |   |   |   |   |
+|@leigh|   |X  |   |   |   |
 |@margeaux|X  |   |   |   |   |
 |@mikelcu|   |   |   |   |   |
 |@pat|X  |   |   |   |   |
 |@rkahne|   |   |   |   |   |
-|@shelleyhicklin|   |   |   |   |   |
+|@shelleyhicklin|   |   |X  |   |   |
 |@thebouv|   |X  |   |   |   |
 |@zbouvier|   |   |   |   |   |
