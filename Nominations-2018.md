@@ -8,15 +8,7 @@ Repository to track nominated Civic Data Alliance Core Members
 |@Aaron Marks|   |   |   |   |   |
 |@Bethany|   |   |   |X  |   |
 |@chrisharrell|   |   |   |   |   |
-|@eric_bickel| Captain: @eric_bickel
-25
-Developer Advocate: @leigh
-26
-Community Organizer: @shelleyhicklin
-27
-Storyteller: @Bethany
-28
-Delivery Lead: @margeaux  |   |   |   |   |
+|@eric_bickel|  |   |   |   |   |
 |@502eire|   |   |   |   |   |
 |@jessetylermullins|   |   |   |   |   |
 |@leigh|   |   |   |   |   |
