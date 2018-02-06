@@ -4,7 +4,7 @@ Repository to track nominated Civic Data Alliance Core Members
 
 |Core Member   |Captain   |Developer Advocate   |Community  Organizer   |Storyteller   |Delivery Lead |
 |---|---|---|---|---|---|
-|@Aaron Marks|   |   |   |   |   |
+|@Aaron Marks|   |   |X  |   |   |
 |@Bethany|   |   |   |X  |   |
 |@chrisharrell|   |   |   |   |   |
 |@eric_bickel|  |   |   |   |   |
