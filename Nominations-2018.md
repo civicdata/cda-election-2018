@@ -15,6 +15,6 @@ Repository to track nominated Civic Data Alliance Core Members
 |@mikelcu|   |   |   |   |   |
 |@pat|X  |   |   |   |   |
 |@rkahne|   |   |   |   |   |
-|@shelleyhicklin|   |   |X  |   |   |
+|@shelleyhicklin|   |   |   |   |   |
 |@thebouv|   |X  |   |   |   |
 |@zbouvier|   |   |   |   |   |
